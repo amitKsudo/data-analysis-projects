@@ -39,6 +39,23 @@ Topics covered:
 
 ---
 
+### 3. Netflix Data Analysis
+
+Analysis of Netflix movies and TV shows using Python.
+
+**Tools:** Python, Pandas, Matplotlib and Seaborn 
+
+Topics covered: 
+- Data exploration
+- Data cleaning
+- Movies and TV shows analysis
+- Content ratings and genres
+- Netflix content trends
+  
+[View Project](./Netflix-Data-Analysis/) 
+
+---
+
 ## Tools & Technologies
 
 - Python
