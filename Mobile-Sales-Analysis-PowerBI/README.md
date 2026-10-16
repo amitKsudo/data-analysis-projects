@@ -16,6 +16,10 @@ An interactive Power BI dashboard designed to analyze mobile phone sales perform
 
 ![Mobile Sales Analysis Dashboard](Mobile_Sales_Dashboard.png)
 
+## Interactive Dashboard Demo
+
+![Mobile Sales Dashboard Demo](Mobile_Sales_Demo.gif)
+
 ## Key Performance Indicators (KPIs)
 
 - **Total Revenue:** 769M
@@ -29,14 +33,15 @@ An interactive Power BI dashboard designed to analyze mobile phone sales perform
 - **Monthly Filter:** Analyze sales data for individual months.
 - **Brand Performance:** Compare Apple, OnePlus, Samsung, Vivo, and Xiaomi.
 - **Payment Method Analysis:** Examine transactions made through UPI, debit cards, credit cards, and cash.
-- **Customer Ratings:** Understand customer satisfaction through rating distributions.
+- **Customer Ratings:** Understand customer rating distributions.
 - **Weekly Sales Trends:** Compare sales performance across days of the week.
 - **Monthly Units Sold:** Track monthly changes in sales quantity.
-- **Top 3 Mobile Models:** Identify leading models based on sales performance.
+- **Top 3 Mobile Models:** Identify leading mobile models based on sales performance.
 
 ## Business Analysis
 
 The dashboard helps explore:
+
 - Revenue and sales performance across mobile brands.
 - Monthly and weekly sales patterns.
 - Customer payment preferences.
@@ -47,7 +52,8 @@ The dashboard helps explore:
 
 - `Mobile_Sales_Analysis.pbix` — Interactive Power BI dashboard.
 - `Mobile_Sales_Data.xlsx` — Excel dataset used for analysis.
-- `Mobile_Sales_Dashboard.png` — Dashboard screenshot.
+- `Mobile_Sales_Dashboard.png` — Static dashboard preview.
+- `Mobile_Sales_Demo.gif` — Animated dashboard demonstration.
 
 ## Conclusion
 
